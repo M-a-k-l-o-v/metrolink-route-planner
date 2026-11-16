@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+venv/
+.venv/
+*.db
+*.sqlite
+*.sqlite3
+tadashi CV (GOALS).pdf
+# Java
+*.class
+bin/
+out/
+target/
+.idea/
+.vscode/
